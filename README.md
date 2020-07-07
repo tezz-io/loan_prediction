@@ -14,7 +14,7 @@ Loan_ID | Unique Loan ID
 Gender | Male/ Female
 Married | Applicant married (Y/N)
 Dependents | Number of dependents
-Education | Applicant Education (Graduate/ Under Graduate)
+Education | Applicant Education (Graduate/ Not Graduate)
 Self_Employed | Self employed (Y/N)
 ApplicantIncome | Applicant income
 CoapplicantIncome | Coapplicant income
